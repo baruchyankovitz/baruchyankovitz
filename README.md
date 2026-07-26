@@ -4,10 +4,9 @@
 
 ### Baruch Yankovitz
 
-**Backend Developer | AI Builder | 8+ Production Apps**
+**Full Stack Developer · AI Builder · 8+ Production Apps**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-upgrade-xi.vercel.app
-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-upgrade-xi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baruch-yankuvitz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baruchyankovitz@gmail.com)
 
@@ -19,13 +18,14 @@
 
 ```typescript
 const baruch = {
-  focus: "Backend architecture & AI-powered solutions",
-  build: ["SaaS Platforms", "Real-time Systems", "AI Automation"],
-  ship: "Complete products, not just features",
+  focus: "Full-stack engineering & AI-powered systems",
+  build: ["Multi-Agent AI Pipelines", "SaaS Platforms", "Real-time Systems"],
+  ship: "Complete products, end-to-end — not just features",
+  impact: "Turned hours-long manual work into automated pipelines",
 };
 ```
 
-I'm a backend-focused developer who builds production-grade systems — from SaaS platforms with payment integration to real-time WebSocket applications and AI automation pipelines. I don't just write code — I engineer products that solve real problems.
+I'm a backend-leaning full-stack developer and AI builder who operates as a **one-person tech team** — currently the sole tech lead at MBN Tech / Light Story. I take products from idea to production: architecture, code, infrastructure, and growth. I don't just write code — I engineer systems that solve real business problems.
 
 ---
 
@@ -33,42 +33,54 @@ I'm a backend-focused developer who builds production-grade systems — from Saa
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend** | Node.js, Express, Next.js, REST APIs, WebSocket |
-| **Frontend** | React, TypeScript, Tailwind CSS, Redux |
-| **Database** | MongoDB, PostgreSQL, Prisma, Redis |
-| **DevOps** | Docker, Git, Vercel, AWS, CI/CD |
-| **AI/ML** | LangChain, Claude API, Gemini, Ollama, RAG |
-| **Languages** | JavaScript, TypeScript, Python, Java, C#, SQL |
-| **Integrations** | Stripe, Resend, Cloudinary, Socket.io |
+| **Backend** | Node.js, Express, Python, Flask, C# / .NET, REST APIs, GraphQL, WebSocket |
+| **Frontend** | React, Next.js, Angular, TypeScript, Tailwind CSS, Redux |
+| **Database** | PostgreSQL, MongoDB, Prisma, Redis |
+| **AI / ML** | Claude API, Gemini API, Whisper, Kling AI, Multi-Agent Systems, RAG, n8n |
+| **DevOps** | Docker, Git, Vercel, Linux, CI/CD |
+| **Integrations** | Stripe, Resend, Socket.io, Shopify GraphQL |
 
 ---
 
 ## Featured Projects
 
-### MailFlow — Email Marketing SaaS
-> Full-stack email marketing platform with campaign management, contact lists, and analytics.
+### [Multi-Agent Ad Campaign Generator](https://github.com/baruchyankovich/lightstory-ad-agent) — AI Pipeline
+> A **7-agent** AI pipeline (Orchestrator, Strategist, Copywriter, Creative, Image Generator, Image Reviewer, QA) that auto-generates complete Facebook ad campaigns with a real-time dashboard. **~90% faster** campaign creation at **~$0.10 per campaign**.
 >
-> `Next.js` `Prisma` `Stripe` `Resend` `TypeScript`
+> `TypeScript` `Node.js` `Claude API` `Gemini` `Socket.io` `Docker`
 
-### Light — In-Store Testing System
-> Real-time product testing platform for retail environments with live device monitoring.
+### Light Story — AI Video Pipeline
+> End-to-end automated AI video generation for a Shopify store: generates product videos with Kling AI, a Flask review UI for approval, and auto-uploads to Shopify via GraphQL. **Cut video production from hours to minutes.**
 >
-> `React` `Express` `MongoDB` `Docker` `Socket.io`
+> `Python` `Flask` `Kling AI` `Shopify GraphQL` `Liquid`
 
-### [Synagogue Platform](https://github.com/baruchyankovich/synagogue-backend) — Management System
-> Community management platform with event scheduling, member management, and payments.
+### [MailFlow](https://github.com/baruchyankovich/mailflow) — Email Marketing SaaS
+> Full-stack email marketing platform with campaign management, CSV import, analytics, HMAC-signed unsubscribe tokens, and Stripe billing.
 >
-> `React` `Express` `MongoDB` `Stripe`
+> `Next.js` `Prisma` `PostgreSQL` `Stripe` `Resend` `TypeScript`
+
+### [EveryoneDJ](https://github.com/baruchyankovich/everyoneDJ) — YouTube Audio Mixer
+> Full-stack app to cut YouTube audio by timestamp, reorder clips via drag-and-drop, crossfade, and merge into a single MP3 megamix — with real-time progress over SSE.
+>
+> `TypeScript` `Node.js` `Express` `Docker` `ffmpeg`
+
+### [Daily Recorder](https://github.com/baruchyankovich/daily-recorder) — AI Audio Transcription
+> macOS daemon that records the workday, transcribes with Whisper, summarizes with Claude, and delivers summaries via WhatsApp — running via a LaunchAgent.
+>
+> `Python` `Whisper` `Claude API` `Playwright`
+
+<details>
+<summary><b>More projects</b></summary>
 
 ### [Construction System](https://github.com/baruchyankovich/ConstructionSystem) — Project Management
-> End-to-end construction project manager with task tracking and resource allocation.
->
-> `.NET` `C#` `TypeScript`
+> Enterprise construction project manager with task tracking, role-based access, and REST API.
+> `Angular` `C#` `.NET` `TypeScript`
 
-### Daily Recorder — AI Audio Transcription
-> Automated audio recording with AI-powered transcription, summarization, and WhatsApp delivery.
->
-> `Python` `WhatsApp API` `AI Transcription`
+### [Synagogue Platform](https://github.com/baruchyankovich/synagogue-backend) — Management System
+> Community management backend with JWT auth, event booking, member management, and email notifications.
+> `Node.js` `Express` `MongoDB` `JWT`
+
+</details>
 
 ---
 
@@ -83,6 +95,6 @@ I'm a backend-focused developer who builds production-grade systems — from Saa
 
 <div align="center">
 
-**Open for backend & AI roles** | baruchyankovitz@gmail.com | 055-678-2035
+**Open to Full Stack & AI roles** · Tel Aviv · baruchyankovitz@gmail.com · 055-678-2035
 
 </div>
