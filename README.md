@@ -7,7 +7,7 @@
 **Full Stack Developer · AI Builder · 8+ Production Apps**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-upgrade-xi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baruch-yankuvitz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baruch-yankovitz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baruchyankovitz@gmail.com)
 
 </div>
@@ -44,7 +44,7 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 
 ## Featured Projects
 
-### [Multi-Agent Ad Campaign Generator](https://github.com/baruchyankovich/lightstory-ad-agent) — AI Pipeline
+### [Multi-Agent Ad Campaign Generator](https://github.com/baruchyankovitz/lightstory-ad-agent) — AI Pipeline
 > A **7-agent** AI pipeline (Orchestrator, Strategist, Copywriter, Creative, Image Generator, Image Reviewer, QA) that auto-generates complete Facebook ad campaigns with a real-time dashboard. **~90% faster** campaign creation at **~$0.10 per campaign**.
 >
 > `TypeScript` `Node.js` `Claude API` `Gemini` `Socket.io` `Docker`
@@ -54,17 +54,17 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 >
 > `Python` `Flask` `Kling AI` `Shopify GraphQL` `Liquid`
 
-### [MailFlow](https://github.com/baruchyankovich/mailflow) — Email Marketing SaaS
+### [MailFlow](https://github.com/baruchyankovitz/mailflow) — Email Marketing SaaS
 > Full-stack email marketing platform with campaign management, CSV import, analytics, HMAC-signed unsubscribe tokens, and Stripe billing.
 >
 > `Next.js` `Prisma` `PostgreSQL` `Stripe` `Resend` `TypeScript`
 
-### [EveryoneDJ](https://github.com/baruchyankovich/everyoneDJ) — YouTube Audio Mixer
+### [EveryoneDJ](https://github.com/baruchyankovitz/everyoneDJ) — YouTube Audio Mixer
 > Full-stack app to cut YouTube audio by timestamp, reorder clips via drag-and-drop, crossfade, and merge into a single MP3 megamix — with real-time progress over SSE.
 >
 > `TypeScript` `Node.js` `Express` `Docker` `ffmpeg`
 
-### [Daily Recorder](https://github.com/baruchyankovich/daily-recorder) — AI Audio Transcription
+### [Daily Recorder](https://github.com/baruchyankovitz/daily-recorder) — AI Audio Transcription
 > macOS daemon that records the workday, transcribes with Whisper, summarizes with Claude, and delivers summaries via WhatsApp — running via a LaunchAgent.
 >
 > `Python` `Whisper` `Claude API` `Playwright`
@@ -72,11 +72,11 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 <details>
 <summary><b>More projects</b></summary>
 
-### [Construction System](https://github.com/baruchyankovich/ConstructionSystem) — Project Management
+### [Construction System](https://github.com/baruchyankovitz/ConstructionSystem) — Project Management
 > Enterprise construction project manager with task tracking, role-based access, and REST API.
 > `Angular` `C#` `.NET` `TypeScript`
 
-### [Synagogue Platform](https://github.com/baruchyankovich/synagogue-backend) — Management System
+### [Synagogue Platform](https://github.com/baruchyankovitz/synagogue-backend) — Management System
 > Community management backend with JWT auth, event booking, member management, and email notifications.
 > `Node.js` `Express` `MongoDB` `JWT`
 
@@ -87,8 +87,8 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=baruchyankovich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baruchyankovich&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=baruchyankovitz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baruchyankovitz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
