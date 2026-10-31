@@ -4,7 +4,7 @@
 
 ### Baruch Yankovitz
 
-**Full Stack Developer · AI Builder · 8+ Production Apps**
+**Full Stack Developer · AI Builder · 8+ Production Systems**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-upgrade-xi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baruch-yankovitz/)
@@ -25,7 +25,7 @@ const baruch = {
 };
 ```
 
-I'm a backend-leaning full-stack developer and AI builder who operates as a **one-person tech team** — currently the sole tech lead at MBN Tech / Light Story. I take products from idea to production: architecture, code, infrastructure, and growth. I don't just write code — I engineer systems that solve real business problems.
+I'm a backend-leaning full-stack developer and AI builder — now freelancing, after serving as the main technology person at MBN Tech (EnoLED & Light Story). I take products from idea to production: architecture, code, infrastructure, and growth. I don't just write code — I engineer systems that solve real business problems.
 
 ---
 
@@ -44,7 +44,7 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 
 ## Featured Projects
 
-### [Multi-Agent Ad Campaign Generator](https://github.com/baruchyankovitz/lightstory-ad-agent) — AI Pipeline
+### Multi-Agent Ad Campaign Generator — AI Pipeline
 > A **7-agent** AI pipeline (Orchestrator, Strategist, Copywriter, Creative, Image Generator, Image Reviewer, QA) that auto-generates complete Facebook ad campaigns with a real-time dashboard. **~90% faster** campaign creation at **~$0.10 per campaign**.
 >
 > `TypeScript` `Node.js` `Claude API` `Gemini` `Socket.io` `Docker`
@@ -54,12 +54,12 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 >
 > `Python` `Flask` `Kling AI` `Shopify GraphQL` `Liquid`
 
-### [MailFlow](https://github.com/baruchyankovitz/mailflow) — Email Marketing SaaS
+### MailFlow — Email Marketing Platform *(learning project, not launched)*
 > Full-stack email marketing platform with campaign management, CSV import, analytics, HMAC-signed unsubscribe tokens, and Stripe billing.
 >
 > `Next.js` `Prisma` `PostgreSQL` `Stripe` `Resend` `TypeScript`
 
-### [EveryoneDJ](https://github.com/baruchyankovitz/everyoneDJ) — YouTube Audio Mixer
+### EveryoneDJ — YouTube Audio Mixer
 > Full-stack app to cut YouTube audio by timestamp, reorder clips via drag-and-drop, crossfade, and merge into a single MP3 megamix — with real-time progress over SSE.
 >
 > `TypeScript` `Node.js` `Express` `Docker` `ffmpeg`
@@ -69,18 +69,10 @@ I'm a backend-leaning full-stack developer and AI builder who operates as a **on
 >
 > `Python` `Whisper` `Claude API` `Playwright`
 
-<details>
-<summary><b>More projects</b></summary>
-
-### [Construction System](https://github.com/baruchyankovitz/ConstructionSystem) — Project Management
-> Enterprise construction project manager with task tracking, role-based access, and REST API.
-> `Angular` `C#` `.NET` `TypeScript`
-
-### [Synagogue Platform](https://github.com/baruchyankovitz/synagogue-backend) — Management System
-> Community management backend with JWT auth, event booking, member management, and email notifications.
-> `Node.js` `Express` `MongoDB` `JWT`
-
-</details>
+### [Synagogue Management Platform](https://github.com/baruchyankovitz/synagogue-backend) — Full Stack, sold to a client
+> Synagogue management system sold to a client in 2025: events, members, Stripe and PayPal payments, JWT login, and automatic emails, in Hebrew and English. A joint project; built most of the components on both the frontend and the backend.
+>
+> `React` `Node.js` `Express` `MongoDB` `Docker` `Stripe` `PayPal`
 
 ---
 
